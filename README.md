@@ -1,4 +1,4 @@
-# Speech to Text Analysis
+# Speech to Text Summarization
 
 This project turns speech audio into clean and summarized text using modern NLP models.  
 We focused mostly on **summarization** and improved the base T5 model through fine-tuning and agent-based methods.
